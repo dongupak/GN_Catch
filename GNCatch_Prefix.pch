@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'CoinCatch' target in the 'CoinCatch' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>logo_changnyeong.png</string>
+	<string>logo_haman.png</string>
+	<string>logo_geochang.png</string>
+	<string>logo_geoje.png</string>
+	<string>logo_gimhae.png</string>
+	<string>logo_goseong.png</string>
+	<string>logo_hadong.png</string>
+	<string>logo_hamyang.png</string>
+	<string>logo_hapcheon.png</string>
+	<string>logo_jinju.png</string>
+	<string>logo_miryang.png</string>
+	<string>logo_namhae.png</string>
+	<string>logo_sacheon.png</string>
+	<string>logo_sancheong.png</string>
+	<string>logo_tongyeong.png</string>
+	<string>logo_uiryeong.png</string>
+	<string>logo_yangsan.png</string>
+	<string>logo_changwon.png</string>
+</array>
+</plist>

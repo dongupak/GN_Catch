@@ -1,0 +1,206 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* CoinCatch */ = {
+		activeExec = 0;
+		executables = (
+			3292593D137E0F5F00AA63E3 /* CoinCatch */,
+		);
+	};
+	1F3B9A2B0EF2145700286867 /* CoinCatchAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 1197}}";
+			sepNavSelRange = "{1472, 0}";
+			sepNavVisRange = "{1147, 1312}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3292593D137E0F5F00AA63E3 /* CoinCatch */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CoinCatch */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CoinCatch */,
+		);
+		codeSenseManager = 32925952137E0F7E00AA63E3 /* Code sense */;
+		executables = (
+			3292593D137E0F5F00AA63E3 /* CoinCatch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					969,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327202231;
+			PBXWorkspaceStateSaveDate = 327202231;
+		};
+		perUserProjectItems = {
+			32925954137E116800AA63E3 /* PBXTextBookmark */ = 32925954137E116800AA63E3 /* PBXTextBookmark */;
+			3295CA201380C37A008E1102 /* PBXTextBookmark */ = 3295CA201380C37A008E1102 /* PBXTextBookmark */;
+			3295CA2D1380C437008E1102 /* PBXTextBookmark */ = 3295CA2D1380C437008E1102 /* PBXTextBookmark */;
+			3295CA2E1380C437008E1102 /* PBXBookmark */ = 3295CA2E1380C437008E1102 /* PBXBookmark */;
+			3295CA2F1380C437008E1102 /* PBXTextBookmark */ = 3295CA2F1380C437008E1102 /* PBXTextBookmark */;
+			3295CA311380C774008E1102 /* PBXTextBookmark */ = 3295CA311380C774008E1102 /* PBXTextBookmark */;
+			329AA241137E29B0006D0EFD /* PBXTextBookmark */ = 329AA241137E29B0006D0EFD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 32925951137E0F7E00AA63E3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3292593D137E0F5F00AA63E3 /* CoinCatch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CoinCatch;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	32925951137E0F7E00AA63E3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	32925952137E0F7E00AA63E3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	32925954137E116800AA63E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2B0EF2145700286867 /* CoinCatchAppDelegate.m */;
+		name = "CoinCatchAppDelegate.m: 51";
+		rLen = 0;
+		rLoc = 1472;
+		rType = 0;
+		vrLen = 1312;
+		vrLoc = 1147;
+	};
+	3295CA201380C37A008E1102 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 650FD085137E7B37002030A6 /* MenuScene.m */;
+		name = "MenuScene.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1783;
+		vrLoc = 0;
+	};
+	3295CA2D1380C437008E1102 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65DB8FDF137D5A8000EE9340 /* GameScene.h */;
+		name = "GameScene.h: 29";
+		rLen = 0;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 800;
+		vrLoc = 0;
+	};
+	3295CA2E1380C437008E1102 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3295CA141380C311008E1102 /* redcross.png */;
+	};
+	3295CA2F1380C437008E1102 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65DB8FE0137D5A8000EE9340 /* GameScene.m */;
+		name = "GameScene.m: 47";
+		rLen = 0;
+		rLoc = 1019;
+		rType = 0;
+		vrLen = 1378;
+		vrLoc = 3544;
+	};
+	3295CA311380C774008E1102 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65DB8FE0137D5A8000EE9340 /* GameScene.m */;
+		name = "GameScene.m: 732";
+		rLen = 0;
+		rLoc = 18238;
+		rType = 0;
+		vrLen = 1364;
+		vrLoc = 17027;
+	};
+	329AA241137E29B0006D0EFD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 329AA242137E29B0006D0EFD /* NSObject.h */;
+		name = "NSObject.h: 29";
+		rLen = 37;
+		rLoc = 625;
+		rType = 0;
+		vrLen = 1205;
+		vrLoc = 0;
+	};
+	329AA242137E29B0006D0EFD /* NSObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObject.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h;
+		sourceTree = "<absolute>";
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	650FD085137E7B37002030A6 /* MenuScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1147, 1654}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1783}";
+		};
+	};
+	65DB8FDF137D5A8000EE9340 /* GameScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1147, 682}}";
+			sepNavSelRange = "{615, 0}";
+			sepNavVisRange = "{0, 800}";
+			sepNavWindowFrame = "{{586, 56}, {1358, 813}}";
+		};
+	};
+	65DB8FE0137D5A8000EE9340 /* GameScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 10550}}";
+			sepNavSelRange = "{2649, 0}";
+			sepNavVisRange = "{2808, 360}";
+			sepNavWindowFrame = "{{74, 213}, {1295, 810}}";
+		};
+	};
+}
